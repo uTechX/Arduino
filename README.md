@@ -4,6 +4,8 @@ Installaion to ESP32
 
 https://github.com/espressif/arduino-esp32
 
+Installing the ESP32 Board in Arduino IDE (Mac OS X and Linux instructions)
+
 https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-mac-and-linux-instructions/
 
 Usb driver
